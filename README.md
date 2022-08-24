@@ -16,14 +16,14 @@ Enter your option: 1
 
 Add Customer Menu    
 
-Enter Customer Name: Abhishek Tripathi
+Enter Customer Name: Abhishek Singh
 Enter Opening Balance Amount: 1000
 Account created successfully. 
 
 Account Details:- 
  
 Account Number: 0
-Account Name: Abhishek Tripathi
+Account Name: Abhishek Singh
 Account Balance: 1000.0 Rs 
 
 Banking Menu:
@@ -92,7 +92,7 @@ Update Account Balance Menu
 
 Enter your Account Number: 0
 Enter the amount to be deposited: 10000
-Abhishek Tripathi your updated balance is : 11000.0 RS. 
+Abhishek Singh your updated balance is : 11000.0 RS. 
 
 Banking Menu:
 Select any one option from below.
@@ -103,7 +103,7 @@ Select any one option from below.
 5) Summary of All Accounts
 6) Quit
 Enter your option: 5
-Account Number: 0, Name: Abhishek Tripathi, Balance: 11000.0Rs. 
+Account Number: 0, Name: Abhishek Singh, Balance: 11000.0Rs. 
 
 Account Number: 1, Name: Shweta Shukla, Balance: 5000.0Rs.
 
